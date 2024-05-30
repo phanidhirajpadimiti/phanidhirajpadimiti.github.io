@@ -1,5 +1,3 @@
-# phanidhirajpadimiti.github.io
-
 # Welcome to My Portfolio
 
 ## About Me
