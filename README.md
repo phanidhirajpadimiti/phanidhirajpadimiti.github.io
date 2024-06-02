@@ -1,15 +1,11 @@
 # Welcome to My Portfolio
 
 ## About Me
-I am a Master of Science in Management Information Systems graduate from the University of Arizona, where I honed my expertise in data science, business analysis, and data analytics. My academic journey and professional engagements have equipped me with robust analytical skills and a deep understanding of data-driven decision-making processes. I currently serve as a Graduate Research assistant at the university, where I am deeply involved in groundbreaking research in the healthcare domain, focusing on natural language processing (NLP) applications. This role allows me to explore innovative ways to leverage machine learning to improve data interpretability and healthcare outcomes.
+I am a Master of Science in Management Information Systems graduate from the University of Arizona, specializing in data science, business analysis, and data analytics. Currently, I am a Graduate Research Assistant at the university, engaged in pioneering NLP research within the healthcare sector.
 
-My unique selling proposition lies in my diverse range of interests and hobbies, which enhance my ability to understand varied perspectives and foster effective collaboration. This versatility enables me to navigate and connect different fields, from technology to business management, driving innovative solutions and strategic decision-making.
+My professional identity is shaped by a unique selling proposition: a diverse range of interests and hobbies that enrich my ability to integrate various perspectives and facilitate effective collaboration. This versatility is instrumental in my approach to connecting technological innovation with strategic business solutions.
 
-At Wipro Limited in India, as a Software Quality Analyst, I led enhancements in software functionality and operational efficiency. My initiatives streamlined workflows, cut down process bottlenecks, and expedited project delivery by 23%, ensuring high user satisfaction and robust software quality.
-
-As part of my MIS curriculum, I led a consulting project for GreenPath Financial Wellness, where I applied my analytical and project management skills to assess and address financial wellness barriers in under-served communities, providing strategic insights and actionable solutions to enhance service delivery and client engagement.
-
-I am actively seeking roles as a Business Analyst, Data Analyst, or Data Scientist, where I can leverage my analytical acumen and methodical problem-solving to maximize data utility, drive strategic decisions, and propel business growth. My extensive background uniquely positions me to contribute effectively to dynamic teams at the nexus of technology and business.
+I am poised to bring my analytical expertise, methodical problem-solving, and a proven track record of driving data-driven decisions to roles such as Business Analyst, Data Analyst, and Data Scientist. My goal is to leverage my comprehensive skills to foster business growth and innovation at the intersection of technology and business.
 
 ## Projects
 
